@@ -1,0 +1,5 @@
+Feature:
+  Scenario:
+    Given user is on the home page of aldo
+    When user brings the mouse cursor onto men and click on sub elemennt-loafers
+    Then user should be able to see the result page.
